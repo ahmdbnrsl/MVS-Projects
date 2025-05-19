@@ -15,3 +15,7 @@ c:\users\win 10\documents\visual studio 2010\Projects\AhmadBeniRusli\AhmadBeniRu
 c:\users\win 10\documents\visual studio 2010\Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.Laporan.resources
 c:\users\win 10\documents\visual studio 2010\Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\RdlCompile.cache
 c:\users\win 10\documents\visual studio 2010\Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\RdlCompile.compiled
+C:\Users\WIN 10\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\bin\Debug\AhmadBeniRusli.exe.config
+C:\Users\WIN 10\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.exe
+C:\Users\WIN 10\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.xml
+C:\Users\WIN 10\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.pdb
