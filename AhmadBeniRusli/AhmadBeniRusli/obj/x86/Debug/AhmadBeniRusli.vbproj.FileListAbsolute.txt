@@ -19,3 +19,20 @@ C:\Users\WIN 10\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\bin\Debug\A
 C:\Users\WIN 10\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.exe
 C:\Users\WIN 10\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.xml
 C:\Users\WIN 10\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.pdb
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\bin\Debug\AhmadBeniRusli.exe.config
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.exe
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.xml
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.pdb
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\bin\Debug\penjualan.accdb
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\bin\Debug\AhmadBeniRusli.exe
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\bin\Debug\AhmadBeniRusli.pdb
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\bin\Debug\AhmadBeniRusli.xml
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.AboutBox1.resources
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.Data_Penjualan.resources
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.Form_Menu.resources
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.Laporan.resources
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.Resources.resources
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\AhmadBeniRusli.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\RdlCompile.cache
+C:\Users\User\Documents\MVS-Projects\AhmadBeniRusli\AhmadBeniRusli\obj\x86\Debug\RdlCompile.compiled

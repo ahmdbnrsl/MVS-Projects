@@ -16,4 +16,12 @@
         Me.PenjualanTableAdapter.Fill(Me.PenjualanDataSet.Penjualan)
 
     End Sub
+
+    Private Sub TabPage1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TabPage1.Click
+
+    End Sub
+
+    Private Sub PelagganLabel_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+
+    End Sub
 End Class

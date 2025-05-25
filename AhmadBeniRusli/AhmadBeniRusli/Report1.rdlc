@@ -57,22 +57,22 @@
         <TablixBody>
           <TablixColumns>
             <TablixColumn>
-              <Width>0.98425in</Width>
+              <Width>1.10615in</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>0.98425in</Width>
+              <Width>1.10615in</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>0.98425in</Width>
+              <Width>1.10615in</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>0.98425in</Width>
+              <Width>1.10615in</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>0.98425in</Width>
+              <Width>1.10615in</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>0.98425in</Width>
+              <Width>1.10615in</Width>
             </TablixColumn>
           </TablixColumns>
           <TablixRows>
@@ -101,6 +101,7 @@
                           <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
+                        <BackgroundColor>Aqua</BackgroundColor>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -131,6 +132,7 @@
                           <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
+                        <BackgroundColor>Aqua</BackgroundColor>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -161,6 +163,7 @@
                           <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
+                        <BackgroundColor>Aqua</BackgroundColor>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -191,6 +194,7 @@
                           <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
+                        <BackgroundColor>Aqua</BackgroundColor>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -221,6 +225,7 @@
                           <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
+                        <BackgroundColor>Aqua</BackgroundColor>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -251,6 +256,7 @@
                           <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
+                        <BackgroundColor>Aqua</BackgroundColor>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -470,13 +476,14 @@
         </TablixRowHierarchy>
         <DataSetName>DataSet1</DataSetName>
         <Top>0.44979cm</Top>
-        <Left>0.39688cm</Left>
+        <Left>2.93688cm</Left>
         <Height>1.2cm</Height>
-        <Width>15cm</Width>
+        <Width>16.85779cm</Width>
         <Style>
           <Border>
             <Style>None</Style>
           </Border>
+          <FontFamily>Modern No. 20</FontFamily>
         </Style>
       </Tablix>
     </ReportItems>
@@ -486,7 +493,7 @@
   <Width>9.00635in</Width>
   <Page>
     <PageHeader>
-      <Height>2.8134cm</Height>
+      <Height>3.58069cm</Height>
       <PrintOnFirstPage>true</PrintOnFirstPage>
       <PrintOnLastPage>true</PrintOnLastPage>
       <ReportItems>
@@ -500,15 +507,14 @@
                   <Value>Koperasi Elka Komputama Majenang</Value>
                   <Style>
                     <FontStyle>Normal</FontStyle>
+                    <FontFamily>Modern No. 20</FontFamily>
+                    <FontSize>20pt</FontSize>
                     <FontWeight>ExtraBold</FontWeight>
-                    <TextDecoration>Underline</TextDecoration>
-                    <Color>HotPink</Color>
+                    <Color>Blue</Color>
                   </Style>
                 </TextRun>
               </TextRuns>
-              <Style>
-                <TextAlign>Center</TextAlign>
-              </Style>
+              <Style />
             </Paragraph>
             <Paragraph>
               <TextRuns>
@@ -516,22 +522,21 @@
                   <Value>STMIK Komputama Majenang</Value>
                   <Style>
                     <FontStyle>Normal</FontStyle>
+                    <FontFamily>Modern No. 20</FontFamily>
+                    <FontSize>20pt</FontSize>
                     <FontWeight>ExtraBold</FontWeight>
-                    <TextDecoration>Underline</TextDecoration>
-                    <Color>HotPink</Color>
+                    <Color>Blue</Color>
                   </Style>
                 </TextRun>
               </TextRuns>
-              <Style>
-                <TextAlign>Center</TextAlign>
-              </Style>
+              <Style />
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>Textbox13</rd:DefaultName>
           <Top>0.67945cm</Top>
           <Left>5.39688cm</Left>
           <Height>1.71062cm</Height>
-          <Width>11.99008cm</Width>
+          <Width>14.39779cm</Width>
           <Style>
             <Border>
               <Style>None</Style>
@@ -546,10 +551,9 @@
           <Source>Embedded</Source>
           <Value>ID9d83a88a176e497795969734f9eeb1e9</Value>
           <Sizing>FitProportional</Sizing>
-          <Top>0.94403cm</Top>
-          <Left>2.90195cm</Left>
-          <Height>1.5cm</Height>
-          <Width>1.5cm</Width>
+          <Left>2.89687cm</Left>
+          <Height>2.77812cm</Height>
+          <Width>2.16451cm</Width>
           <ZIndex>1</ZIndex>
           <Style>
             <Border>

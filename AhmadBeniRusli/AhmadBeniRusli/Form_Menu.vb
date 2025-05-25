@@ -4,11 +4,6 @@
        
     End Sub
 
-    Private Sub PenjualanToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PenjualanToolStripMenuItem.Click
-        Laporan.MdiParent = Me
-        Laporan.Show()
-    End Sub
-
     Private Sub AboutToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles AboutToolStripMenuItem.Click
         AboutBox1.MdiParent = Me
         AboutBox1.Show()
@@ -21,5 +16,10 @@
 
     Private Sub ExitToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ExitToolStripMenuItem.Click
         End
+    End Sub
+
+    Private Sub LaporanPenjualanToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles LaporanPenjualanToolStripMenuItem.Click
+        Laporan.MdiParent = Me
+        Laporan.Show()
     End Sub
 End Class
